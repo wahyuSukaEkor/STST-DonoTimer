@@ -5,8 +5,7 @@ Jadi, gini. Rata - rata streamer atau vtuber kan punya banyak tempat donet. Teru
 Aplikasi ini mah, buat pembelajaran ku aja. Dan selama ini, berjalan lancar di PC ku. Kalau mau pakai tinggal clone ataupun download dari realase jika² beberapa package npmnya dihapus.
 
 # Demonstrasi dan Tutorial Video
-- [Short Version](https://youtube.com/)
-- [Long Version](https://youtube.com/)
+- [1 Menit Tutorial]([https://youtube.com/](https://www.youtube.com/watch?v=M4DUo3MwlHw))
 
 # Alat yang digunakan
 - Saweria, Trakteer, Sociabuzz, dan Tako sebagai platform donasi
